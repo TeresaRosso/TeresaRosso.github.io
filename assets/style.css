@@ -220,7 +220,15 @@ img {
 }
 
 .lavoro:nth-child(11) .immagine-lavoro {
-    object-position: center 3%;
+    object-position: center 15%;
+}
+
+.lavoro:nth-child(15) .immagine-lavoro {
+    object-position: center top;
+}
+
+.lavoro:nth-child(17) .immagine-lavoro {
+    object-position: center 65%;
 }
 
 .lavoro h3 {
